@@ -1,5 +1,6 @@
 name: "Mohd Nazrin Muhammad"
 output_dir: "."
+
 navbar:
   title: "Mohd Nazrin Muhammad"
   left:
@@ -16,3 +17,4 @@ navbar:
       href: contact.html
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/mohdnazrin/
+
