@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+###Subjects I'm teaching in the current semester
+Semester 1  - ...  
+  
+    
+      
+  
+    
+###Previous courses  
+
+####2017/2018
+Semester 2    
+- Principle of Electric & Electronics (BEKG 1123)  
+- Manufacturing Workshop (BMFS 1122)  
+
+####2012/2013
+Semester 2    
+- Object Oriented Programming (BMFA 4523)    
+
+Semester 1  
+- Control Systems (BMFA 3313)  
+
+####2011/2012
+Semester 2  
+- Digital Electronics (BMFA 2463)    
+
+Semester 1  
+- Sensors & Instrumentation (BMFA 3473)  
+- Robot Simulation & Modeling (BMFA 4452)  
+
+####2010/2011
+Semester 2    
+- Robot Simulation & Modeling (BMFA 4452)  
+- Manufacturing Information Technology (DITG 3113)
+
+
