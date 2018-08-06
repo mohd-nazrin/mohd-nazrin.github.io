@@ -1,12 +1,18 @@
 ---
-title: "Publications"
+title: |
+  | Publications
+  |  
+  |  
+output: html_document
 ---
-***
 
-Google Scholar
+[Google Scholar](https://scholar.google.com/citations?user=ty4knJwAAAAJ&hl=en)
 
+Mohd Nazrin Muhammad, Zoran Salcic, and Kevin I-Kai Wang. 2018. “Indoor Pedestrian Tracking Using Consumer-Grade Inertial Sensors with Pztd Heading Correction.” IEEE Sensors Journal 18 (12). IEEE: 5164–72.
 
-Published journals
+Mohd Nazrin Muhammad, Zoran Salcic, and Kevin I-Kai Wang. 2018. “Detecting Turns and Correcting Headings Using Low-Cost Ins.” The Journal of Navigation 71 (1). Cambridge University Press: 189–207.
 
+Mohd Nazrin Muhammad, Zoran Salcic, and Kevin I-Kai Wang. 2015. “Real-Time Pdr Based on Resource-Constrained Embedded Platform.” In Sensing Technology (Icst), 2015 9th International Conference on, 779–84. IEEE.
 
-Conference proceedings
+Mohd Nazrin Muhammad, Zoran Salcic, and Kevin I-Kai Wang. 2014. “Subtractive Clustering as Zupt Detector.” In Ubiquitous Intelligence and Computing, 2014 Ieee 11th Intl Conf on and Ieee 11th Intl Conf on and Autonomic and Trusted Computing, and Ieee 14th Intl Conf on Scalable Computing and Communications and Its Associated Workshops (Utc-Atc-Scalcom), 349–55. IEEE.
+

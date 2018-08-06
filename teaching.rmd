@@ -1,16 +1,16 @@
 ---
-title: "Teaching"
+title: |
+  | Teaching
+  |  
+  |  
 output: html_document
 ---
 
-###Subjects I'm teaching in the current semester
-Semester 1  - ...  
-  
-    
-      
-  
-    
-###Previous courses  
+
+####2018/2019
+Semester 1
+- Robotics and Automation (DMFD 3463)
+- Mechatronics (BMFA 3113)    
 
 ####2017/2018
 Semester 2    
@@ -35,6 +35,6 @@ Semester 1
 ####2010/2011
 Semester 2    
 - Robot Simulation & Modeling (BMFA 4452)  
-- Manufacturing Information Technology (DITG 3113)
+- Manufacturing Information Technology (DITG 3113)  
 
 

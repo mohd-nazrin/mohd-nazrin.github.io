@@ -1,0 +1,18 @@
+---
+title: "Contact"
+
+output: html_document
+---
+
+Office: Level 2, Pusat Pengajian Siswazah, UTeM
+
+Email: [nazrin@utem.edu.my](nazrin@utem.edu.my)
+
+```{r eval=TRUE, echo=FALSE}
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=102.318573, lat=2.305768, popup="Pusat Pengajian Siswazah")
+m
+```
