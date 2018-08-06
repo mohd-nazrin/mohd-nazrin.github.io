@@ -8,7 +8,7 @@ Office: Level 2, Pusat Pengajian Siswazah, UTeM
 
 Email: [nazrin@utem.edu.my](nazrin@utem.edu.my)
 
-```{r eval=TRUE, echo=FALSE}
+```{r eval=TRUE, echo=FALSE, warning=FALSE,error=FALSE}
 library(leaflet)
 
 m <- leaflet() %>%
